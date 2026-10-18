@@ -1,0 +1,6 @@
+{
+  "name": "PoshanSetu - Gujarat Anganwadi PWA",
+  "description": "Bilingual mobile Progressive Web App for Anganwadi workers in Gujarat to track nutrition stock, inward entries, daily distribution, and sync real-time with Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#F2F9F3"/>
+  <circle cx="256" cy="256" r="230" fill="#E2F5E9" stroke="#13653F" stroke-width="8"/>
+  <!-- Bridge Base (Setu) -->
+  <path d="M120 380 C180 340 332 340 392 380 C360 360 310 350 256 350 C202 350 152 360 120 380 Z" fill="#13653F"/>
+  <path d="M150 380 C200 355 312 355 362 380" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  <!-- Vertical Bridge Pylons -->
+  <path d="M210 352 L210 380 M256 350 L256 380 M302 352 L302 380" stroke="#FFFFFF" stroke-width="4"/>
+  <!-- Left Figure (Mother/Adult) in Green -->
+  <circle cx="180" cy="220" r="24" fill="#13653F"/>
+  <path d="M150 310 C150 260 210 260 210 310 Z" fill="#13653F"/>
+  <path d="M180 244 C195 240 215 220 225 200" stroke="#13653F" stroke-width="12" stroke-linecap="round"/>
+  <!-- Right Figure (Anganwadi Worker / Caregiver) in Teal Green -->
+  <circle cx="332" cy="220" r="24" fill="#0D7651"/>
+  <path d="M302 310 C302 260 362 260 362 310 Z" fill="#0D7651"/>
+  <path d="M332 244 C317 240 297 220 287 200" stroke="#0D7651" stroke-width="12" stroke-linecap="round"/>
+  <!-- Center Child Figure in Vibrant Orange / Sun -->
+  <circle cx="256" cy="180" r="28" fill="#F97316"/>
+  <path d="M226 270 C226 220 286 220 286 270 Z" fill="#F97316"/>
+  <path d="M256 200 L230 150 M256 200 L282 150" stroke="#F97316" stroke-width="10" stroke-linecap="round"/>
+  <!-- Sprouting Nutrition Leaves Top -->
+  <path d="M256 130 C270 90 310 90 320 120 C300 135 275 140 256 130 Z" fill="#22C55E"/>
+  <path d="M256 130 C242 90 202 90 192 120 C212 135 237 140 256 130 Z" fill="#16A34A"/>
+  <path d="M256 130 C256 70 256 70 256 70" stroke="#15803D" stroke-width="6" stroke-linecap="round"/>
+</svg>
